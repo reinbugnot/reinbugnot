@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinbugnot&label=Profile%20views&color=0e75b6&style=flat" alt="reinbugnot" /> </p>
 
-- 💼 Currently working in **NUS-NCS Cybersecurity Laboratory, Singapore**
-
 - 📫 How to reach me **reinbugnot@gmail.com**
 
 - 📄 Know about my experiences [bit.ly/reinbugnot](bit.ly/reinbugnot)
