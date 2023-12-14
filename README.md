@@ -1,3 +1,4 @@
+![HEADER IMAGE](/hacker-bg.png)
 <h1 align="center">Hi 👋, I'm Rein Bugnot</h1>
 <h3 align="center">Data Scientist, Master in Artificial Intelligence, and Machine Learning Developer</h3>
 
