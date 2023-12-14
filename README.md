@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinbugnot" alt="reinbugnot" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/reinbugnot](https://github.com/reinbugnot)
-
-- 💬 Ask me about **data science, ai, and machine learning**
+- 💬 Ask me anything about **data science, ai, and machine learning**
 
 - 📫 How to reach me **reinbugnot@gmail.com**
 
 - 📄 Know about my experiences [bit.ly/reinbugnot](bit.ly/reinbugnot)
+
+- 👇 Scroll down to check out my featured projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
