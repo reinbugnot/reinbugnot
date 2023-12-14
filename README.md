@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **reinbugnot@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/reinbugnot](bit.ly/reinbugnot)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1L2Y2Rl6YeUuSjnXaEQ7BWpWRnBzbGpH6/view)!
 
 - 👇 Scroll down to check out my featured projects!
 
