@@ -1,4 +1,9 @@
 ![HEADER IMAGE](/hacker-bg2.png)
+
+I bring four years of hands-on experience in the field, with a solid foundation in Data Science Solutioning, Data Analysis, and Machine Learning Development. Currently pursuing a Master of Science in Artificial Intelligence at Nanyang Technological University in Singapore, I am deeply passionate about the ever-evolving realms of AI and Machine Learning. Back in the Philippines, I earned national recognition as the recipient of the prestigious ‘Magsaysay Future Engineer and Technologist’ award in 2019 for pioneering research integrating machine learning and engineering principles shortly after graduating from Ateneo de Manila University. Presently, I am contributing as a Research Assistant at the Cybersecurity Laboratory of the National University of Singapore, where I get plently of opportunities to further enhance my expertise in cutting-edge technologies. 
+
+Wanna build something together? Let's talk! ☕
+
 <img align="right" alt="Coding" width="450" src="/coding.gif">
 
 - 📫 How to reach me **reinbugnot@gmail.com**
