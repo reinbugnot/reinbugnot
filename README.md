@@ -1,5 +1,5 @@
 ![HEADER IMAGE](/hacker-bg2.png)
-<img align="right" alt="Coding" width="300" src="/coding.gif">
+<img align="right" alt="Coding" width="500" src="/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinbugnot&label=Profile%20views&color=0e75b6&style=flat" alt="reinbugnot" /> </p>
 
