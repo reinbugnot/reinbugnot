@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinbugnot" alt="reinbugnot" /></a> </p>
 
-<p align="right"> <img width="300" src="https://assets-v2.lottiefiles.com/a/76e3f8ee-116c-11ee-be7a-631629a787fa/t8t7JCqEVO.gif"> </p>
+<img align="right" width="300" src="https://assets-v2.lottiefiles.com/a/76e3f8ee-116c-11ee-be7a-631629a787fa/t8t7JCqEVO.gif">
 
 - 💬 Ask me anything about **data science, ai, and machine learning**
 
