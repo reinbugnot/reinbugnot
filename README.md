@@ -1,5 +1,5 @@
 ![HEADER IMAGE](/hacker-bg2.png)
-<img align="right" alt="Coding" width="300" src="https://assets-v2.lottiefiles.com/a/76e3f8ee-116c-11ee-be7a-631629a787fa/t8t7JCqEVO.gif">
+<img align="right" alt="Coding" width="300" src="/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinbugnot&label=Profile%20views&color=0e75b6&style=flat" alt="reinbugnot" /> </p>
 
