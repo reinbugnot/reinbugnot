@@ -1,6 +1,6 @@
 ![HEADER IMAGE](/hacker-bg2.png)
 
-I am deeply passionate about the ever-evolving realms of AI and Machine Learning. Wanna build something together? Let's talk! ☕
+I am deeply passionate about the anything AI and Machine Learning. Wanna build something together? Let's talk! ☕
 
 <img align="right" alt="Coding" width="450" src="/coding.gif">
 
