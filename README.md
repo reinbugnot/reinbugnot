@@ -6,7 +6,7 @@ I am deeply passionate about the anything AI and Machine Learning. Wanna build s
 
 - 📫 How to reach me **reinbugnot@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1L2Y2Rl6YeUuSjnXaEQ7BWpWRnBzbGpH6/view)!
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1L2Y2Rl6YeUuSjnXaEQ7BWpWRnBzbGpH6/view?usp=sharing)!
 
 - 👇 Scroll down to check out my featured projects!
 
